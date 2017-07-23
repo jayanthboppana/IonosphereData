@@ -15,3 +15,5 @@ Number of Instances: 351
 Number of Attributes: 34; 35th Attribute is classifying attribute
   
 Compare the effectiveness of logistic regression and neural netowrks for binary classification.
+
+Classifying if ionosphere sample is good or bad and if neural networks are more effective than logistic regression.
