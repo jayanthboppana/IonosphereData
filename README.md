@@ -12,7 +12,6 @@ Source Information:
                         
 Number of Instances: 351
 
-Number of Attributes: 34
-  35th Attribute is classifying attribute
+Number of Attributes: 34; 35th Attribute is classifying attribute
   
 Compare the effectiveness of logistic regression and neural netowrks for binary classification.
